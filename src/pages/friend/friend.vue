@@ -1,6 +1,6 @@
 <template>
     <div class="friendContainer">
-        <wk-header title="联系人" />
+        <wk-header title="联系人" setting self/>
         <div class="friend">
             <div class="header">
                 <wk-search></wk-search>

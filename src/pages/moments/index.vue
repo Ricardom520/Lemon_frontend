@@ -1,6 +1,6 @@
 <template>
     <div class="momentsContainer">
-        <wk-header title="动态分享"/>
+        <wk-header title="动态分享" self setting />
         <div class="bodyer">
             <ul class="lists">
                 <li class="list">

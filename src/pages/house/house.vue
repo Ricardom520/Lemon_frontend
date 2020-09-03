@@ -1,6 +1,6 @@
 <template>
     <div class="houseContainer">
-        <wk-header title="house"/>
+        <wk-header title="house" self setting/>
         <div class="house">
             <img src="@/assets/images/common/bg.jpg" class="bg">
             <img src="@/assets/images/icon/radar.svg" class="radar" @click="showRadar">
